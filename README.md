@@ -79,7 +79,9 @@ The project includes queries related to:
 ## Project Structure
 
 dataset.sql – Database schema and sample data
+
 sql_questions.sql – SQL practice questions
+
 sql_solutions.sql – SQL solutions for the queries
 
 ---
